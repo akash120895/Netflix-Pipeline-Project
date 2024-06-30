@@ -17,7 +17,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>loginid</label>
+          <label>name and mob.number </label>
         </div>
         <div class="form-control">
           <input type="password" required />
